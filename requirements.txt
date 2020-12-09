@@ -4,3 +4,4 @@ pandas
 nbgitpuller
 fastparquet
 pyarrow
+xlrd
