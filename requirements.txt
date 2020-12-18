@@ -5,3 +5,4 @@ nbgitpuller
 fastparquet
 pyarrow
 xlrd
+seaborn
